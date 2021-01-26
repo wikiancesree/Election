@@ -1,0 +1,168 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OXFORDELECTION
+</name>
+</assembly>
+<members>
+<member name="P:OXFORDELECTION.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.aayush_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.aayush_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.arpitha_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.arpitha_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.arpitha_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.arpitha_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.azeem_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.bg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.bg3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.chandralekha_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.divyashree_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.IMG_20190619_WA0002">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.nandana_dinesh_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_31_23_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_37_11_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_37_52_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_38_13_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_38_13_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_38_13_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_38_13_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_49_41_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_12_49_41_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_13_08_13_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_13_08_13_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_19_13_11_09_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_20_14_11_22_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.New_Doc_2019_06_20_14_11_22_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.phalguni_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.raghav_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.saifuddin_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.sreevani_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.sreevani_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.sreevani_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.sunar_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.varun_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:OXFORDELECTION.My.Resources.Resources.varun_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:OXFORDELECTION.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
